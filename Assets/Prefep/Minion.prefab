@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4671468059419668696}
   - component: {fileID: 4671468059419668703}
   - component: {fileID: 4671468059419668702}
-  - component: {fileID: 8675625686485170930}
+  - component: {fileID: -1645824641535111690}
   m_Layer: 0
   m_Name: Minion
   m_TagString: Untagged
@@ -113,8 +113,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetPosition: {x: 10, y: 0.5, z: 10}
   moveSpeed: 5
-  minion: {fileID: 0}
---- !u!54 &8675625686485170930
+--- !u!54 &-1645824641535111690
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

@@ -7,8 +7,5 @@ public class MionionDespawn : MonoBehaviour
 {
     public GameObject minion;
     
-    void OnCollisionEnter(Collision collision)
-    {
-        Destroy(gameObject);
-    }
+   
 }
